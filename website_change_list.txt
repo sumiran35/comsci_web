@@ -1,0 +1,5 @@
+home ---> home 
+about us ---> read more sections
+meetings ---> latest courses
+Team ---> board
+contact us ---> club email nd discord.
