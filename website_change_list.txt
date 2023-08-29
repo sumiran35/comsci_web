@@ -3,3 +3,9 @@ about us ---> read more sections
 meetings ---> latest courses
 Team ---> board
 contact us ---> club email nd discord.
+
+
+web_Color1 = #f7fa10
+web_Color2 = #173bf7
+
+

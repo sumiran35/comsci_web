@@ -120,12 +120,12 @@ body {
 }
 
 ::selection {
-  background: #7a6ad8;
+  background:  #f7fa10;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #7a6ad8;
+  background:  #f7fa10;
   color: #fff;
 }
 
@@ -147,12 +147,12 @@ body {
 }
 
 .section-heading h2 em {
-  color: #7a6ad8;
+  color:  #f7fa10;
   font-style: normal;
 }
 
 .section-heading h6 {
-  color: #7a6ad8;
+  color:  #f7fa10;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 600;
@@ -161,7 +161,7 @@ body {
 .main-button a {
   display: inline-block;
   background-color: #fff;
-  color: #7a6ad8;
+  color:  #f7fa10;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -172,7 +172,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #7a6ad8;
+  background-color:  #f7fa10;
   color: #fff;
 }
 
@@ -249,7 +249,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #7a6ad8;
+  background:  #f7fa10;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -272,7 +272,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #7a6ad8;
+  background:  #f7fa10;
   border-radius: 50%;
 }
 
@@ -285,7 +285,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #7a6ad8 !important;
+  background-color:  #f7fa10 !important;
   border-radius: 0px 0px 25px 25px;
   height: 80px!important;
   position: fixed!important;
@@ -696,7 +696,7 @@ Banner Style
 }
 
 .main-banner .item span.category {
-  background-color: #7a6ad8;
+  background-color:  #f7fa10;
   color: #fff;
   font-size: 14px;
   text-transform: uppercase;
@@ -731,7 +731,7 @@ Banner Style
 
 .main-banner .item .buttons .main-button a {
   font-size: 14px;
-  color: #7a6ad8;
+  color:  #f7fa10;
   background-color: #fff;
   display: inline-block;
   height: 50px;
@@ -742,7 +742,7 @@ Banner Style
 }
 
 .main-banner .item .buttons .icon-button i {
-  color: #7a6ad8;
+  color:  #f7fa10;
   background-color: #fff;
   display: inline-block;
   height: 50px;
@@ -815,7 +815,7 @@ Services Style
   display: inline-block;
   text-align: center;
   line-height: 190px;
-  background-color: #7a6ad8;
+  background-color:  #f7fa10;
   border-radius: 50%;
   position: absolute;
   right: 0;
@@ -919,7 +919,7 @@ h2.accordion-header button {
   text-align: center;
   line-height: 30px;
   border-radius: 50%;
-  background-color: #7a6ad8;
+  background-color:  #f7fa10;
   color: #fff;
 }
 
